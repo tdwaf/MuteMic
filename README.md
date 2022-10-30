@@ -1,1 +1,1 @@
-# MuteMic
+Quick script to mute mic with `https://github.com/Anc813/MicMute` program. Utilizing `rasberry pi pico`
